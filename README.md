@@ -11,12 +11,12 @@ $ cd pyCaesar
 
 Simplest way to to run Caesar encription 
 
-(Caesar cyphering is based on adding set step to each letter in a message,
-
+(Caesar cyphering is based on adding set step to each letter in a message, 
 for example, message "aaa" with step "1" will produce encripted message "bbb").
 
 As a prerequisite you meed to have Python installed on your system. 
 And in case of remote server it is not the easiest task.
+
 Anyway, copy a copy from clone and install into working directory
 
 $ git clone 

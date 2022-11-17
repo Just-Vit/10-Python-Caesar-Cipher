@@ -1,4 +1,4 @@
-# python-caesar
+# Python-Caesar
 
 >>>> Caesar Cipher with Python
 
@@ -50,6 +50,6 @@ bbaa
 
 
 *** 
-Same command goes with decryption
+A similar command performs decryption
 
 └─$ python cc_dencrypt.py 

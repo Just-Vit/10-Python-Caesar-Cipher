@@ -9,7 +9,7 @@ Create working directory
 └─$ cd pyCaesar
 
 
-Easiest way to run Caesar encryption
+To run Caesar encryption with Python please follow these steps:
 
 (Caesar encryption is based on adding a given step to each letter in the message,
 for example, a message "aaa" with a stride of "1" would create an encrypted message "bbb").
@@ -22,13 +22,13 @@ Either way, make a copy of the URL from 'Code' > 'Clone' > 'HTTPS' and set to yo
 └─$ git clone https://github.com/vi-u/Python-Caesar.git
 
 └─$ ls
-Python Caesar
+Python-Caesar
 
 └─$ cd Python-Caesar
 
 To run it from your working directory, just type the command:
 
-└─$python cc_enscript.py
+└─$ python cc_encrypt.py
 
 As a result, you should get something like this:
 
@@ -46,3 +46,5 @@ Wait, almost done...
 Your encrypted message:
 
 bbaa
+
+*** Same command goes with cc_decrypt.py ***

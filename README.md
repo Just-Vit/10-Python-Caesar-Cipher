@@ -1,28 +1,48 @@
-# Python-Caesar
+# python-caesar
 
->>>>   Caesar cypher with Python
+>>>> Caesar Cipher with Python
 
-Craete working directory
+Create working directory
 
-$ mkdir pyCaesar
+└─$ mkdir pyCaesar
 
-$ cd pyCaesar
+└─$ cd pyCaesar
 
 
-Simplest way to to run Caesar encription 
+Easiest way to run Caesar encryption
 
-(Caesar cyphering is based on adding set step to each letter in a message, 
-for example, message "aaa" with step "1" will produce encripted message "bbb").
+(Caesar encryption is based on adding a given step to each letter in the message,
+for example, a message "aaa" with a stride of "1" would create an encrypted message "bbb").
 
-As a prerequisite you meed to have Python installed on your system. 
-And in case of remote server it is not the easiest task.
+As a prerequisite, you must have Python installed on your system.
+And in the case of a remote server, this is not the easiest task.
 
-Anyway, make a URL copy from Code > Clone > HTTPS and install into working directory
+Either way, make a copy of the URL from 'Code' > 'Clone' > 'HTTPS' and set to your working directory.
 
-$ git clone https://github.com/vi-u/Python-Caesar.git
+└─$ git clone https://github.com/vi-u/Python-Caesar.git
 
-Or use zip file to install it in your working directory
+└─$ ls
+Python Caesar
 
-To run it from working directory just type a command:
+└─$ cd Python-Caesar
 
-$ python cc_encript.py
+To run it from your working directory, just type the command:
+
+└─$python cc_enscript.py
+
+As a result, you should get something like this:
+
+└─$ python cc_encrypt.py
+Welcome to Caesar Cipher Encryption.
+
+Enter the message you want to encrypt: AaZz
+
+Enter cipher step: 1
+
+Encrypting your message...
+
+Wait, almost done...
+
+Your encrypted message:
+
+bbaa

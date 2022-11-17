@@ -22,6 +22,7 @@ Either way, make a copy of the URL from 'Code' > 'Clone' > 'HTTPS' and set to yo
 └─$ git clone https://github.com/vi-u/Python-Caesar.git
 
 └─$ ls
+
 Python-Caesar
 
 └─$ cd Python-Caesar
@@ -47,4 +48,8 @@ Your encrypted message:
 
 bbaa
 
-*** Same command goes with cc_decrypt.py ***
+
+*** 
+Same command goes with decryption
+
+└─$ python cc_dencrypt.py 

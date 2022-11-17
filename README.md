@@ -3,7 +3,9 @@
 >>>>   Caesar cypher with Python
 
 Craete working directory
+
 $ mkdir pyCaesar
+
 $ cd pyCaesar
 
 

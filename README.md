@@ -21,7 +21,7 @@ Anyway, make a URL copy from Code > Clone > HTTPS and install into working direc
 
 $ git clone https://github.com/vi-u/Python-Caesar.git
 
-Or use zip file to install it your working directory
+Or use zip file to install it in your working directory
 
 To run it from working directory just type a command:
 

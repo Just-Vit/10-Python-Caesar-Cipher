@@ -17,9 +17,9 @@ for example, message "aaa" with step "1" will produce encripted message "bbb").
 As a prerequisite you meed to have Python installed on your system. 
 And in case of remote server it is not the easiest task.
 
-Anyway, make a URL copy from Clone and install into working directory
+Anyway, make a URL copy from Code > Clone > HTTPS and install into working directory
 
-$ git clone 
+$ git clone https://github.com/vi-u/Python-Caesar.git
 
 Or use zip file to install it your working directory
 

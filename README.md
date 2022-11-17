@@ -9,7 +9,10 @@ $ mkdir pyCaesar
 $ cd pyCaesar
 
 
-Simplest way to to run Caesar encription (adding set step to each letter in a message,
+Simplest way to to run Caesar encription 
+
+(Caesar cyphering is based on adding set step to each letter in a message,
+
 for example, message "aaa" with step "1" will produce encripted message "bbb").
 
 As a prerequisite you meed to have Python installed on your system. 

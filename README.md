@@ -23,7 +23,7 @@ Either way, make a copy of the URL from 'Code' > 'Clone' > 'HTTPS' and set to yo
 
 └─$ ls
 
-Python-Caesar
+    Python-Caesar
 
 └─$ cd Python-Caesar
 
@@ -34,6 +34,7 @@ To run it from your working directory, just type the command:
 As a result, you should get something like this:
 
 └─$ python cc_encrypt.py
+
 Welcome to Caesar Cipher Encryption.
 
 Enter the message you want to encrypt: AaZz

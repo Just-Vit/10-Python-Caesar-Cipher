@@ -2,22 +2,15 @@
 
 >>>> Caesar Cipher with Python
 
-Create working directory
+To run Caesar encryption with Python, follow these steps:
 
-    $ mkdir pyCaesar
-
-    $ cd pyCaesar
-
-
-To run Caesar encryption with Python please follow these steps:
-
-(Caesar encryption is based on adding a given step to each letter in the message,
-for example, a message "aaa" with a stride of "1" would create an encrypted message "bbb").
+(Caesar encryption is based on adding a given stride (integer) to each letter in the message.
+For example, a message "aaa" with a stride of "1" would create an encrypted message "bbb").
 
 As a prerequisite, you must have Python installed on your system.
-And in the case of a remote server, this is not the easiest task.
+And in the case of a remote server, this is not an easy task.
 
-Either way, make a copy of the URL from 'Code' > 'Clone' > 'HTTPS' and set to your working directory.
+Either way, make a copy of the URL from 'Code' > 'Clone' > 'HTTPS' and set it to your working directory.
 
     $ git clone https://github.com/vi-u/10-Python-Caesar-Cipher.git
 

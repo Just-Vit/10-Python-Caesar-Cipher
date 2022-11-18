@@ -4,9 +4,9 @@
 
 Create working directory
 
-└─$ mkdir pyCaesar
+    $ mkdir pyCaesar
 
-└─$ cd pyCaesar
+    $ cd pyCaesar
 
 
 To run Caesar encryption with Python please follow these steps:
@@ -19,38 +19,38 @@ And in the case of a remote server, this is not the easiest task.
 
 Either way, make a copy of the URL from 'Code' > 'Clone' > 'HTTPS' and set to your working directory.
 
-└─$ git clone https://github.com/vi-u/10-Python-Caesar-Cipher.git
+    $ git clone https://github.com/vi-u/10-Python-Caesar-Cipher.git
 
-└─$ ls
+    $ ls
 
-    10-Python-Caesar-Cipher
+└─  10-Python-Caesar-Cipher
 
-└─$ cd 10-Python-Caesar-Cipher
+    $ cd 10-Python-Caesar-Cipher
 
 To run it from your working directory, just type the command:
 
-└─$ python cc_encrypt.py
+    $ python cc_encrypt.py
 
 As a result, you should get something like this:
 
 └─$ python cc_encrypt.py
 
-Welcome to Caesar Cipher Encryption.
+└─ Welcome to Caesar Cipher Encryption.
 
-Enter the message you want to encrypt: AaZz
+└─ Enter the message you want to encrypt: AaZz
 
-Enter cipher step: 1
+└─ Enter cipher step: 1
 
-Encrypting your message...
+└─ Encrypting your message...
 
-Wait, almost done...
+└─ Wait, almost done...
 
-Your encrypted message:
+└─ Your encrypted message:
 
-bbaa
+└─ bbaa
 
 
 *** 
 A similar command performs decryption
 
-└─$ python cc_dencrypt.py 
+    $ python cc_dencrypt.py 

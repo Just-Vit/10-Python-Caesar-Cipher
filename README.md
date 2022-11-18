@@ -19,13 +19,13 @@ And in the case of a remote server, this is not the easiest task.
 
 Either way, make a copy of the URL from 'Code' > 'Clone' > 'HTTPS' and set to your working directory.
 
-└─$ git clone https://github.com/vi-u/Python-Caesar.git
+└─$ git clone https://github.com/vi-u/10-Python-Caesar-Cipher.git
 
 └─$ ls
 
-    Python-Caesar
+    10-Python-Caesar-Cipher
 
-└─$ cd Python-Caesar
+└─$ cd 10-Python-Caesar-Cipher
 
 To run it from your working directory, just type the command:
 
